@@ -334,7 +334,7 @@ export class PdfGeneratorService {
             Dr. José Antonio Pérez Sánchez
           </div>
           <div style="font-size: 10px; color: #000; line-height: 1.3; margin-bottom: 1mm;">
-            Encargado de la Dirección General del STCH
+            Director general del STCH
           </div>
         </div>
 
